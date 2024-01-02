@@ -1,9 +1,9 @@
 /*  ========================================================================    */
-					-- Project #4 --
+			-- Project #4 --
 			-- Databse Queries using MySQL --
 /*  ========================================================================    */
 			-- Submitted by: Rana Vivekkumar R. --
-				-- Course: Data Science --
+			-- Course: Data Science --
 /*  ========================================================================    */
 			/* Problem Statement Pizza Sales */
 /*  ========================================================================    */
@@ -57,9 +57,9 @@ from pizza_sales;
 -- 6. Show Daily trend for total Orders. 
 -- Identify any patterns or fluctuations in order volumes on a daily basis.
 select count(order_id) as "Order per Day", 
-order_date as "Order Date"
-from pizza_sales
-group by order_date;
+	order_date as "Order Date"
+	from pizza_sales
+	group by order_date;
 
 -- 7. Show Monthly Trend for Total Orders. 
 -- Identify peak hours or periods of high order activity.
