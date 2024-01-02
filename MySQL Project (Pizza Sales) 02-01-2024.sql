@@ -1,11 +1,11 @@
 /*  ========================================================================    */
                               -- Project #4 --
-					  -- Databse Queries using MySQL --
+                              -- Databse Queries using MySQL --
 /*  ========================================================================    */
-				    -- Submitted by: Rana Vivekkumar R. --
-					    -- Course: Data Science --
+                              -- Submitted by: Rana Vivekkumar R. --
+                              -- Course: Data Science --
 /*  ========================================================================    */
-				    /* Problem Statement Pizza Sales */
+                              /* Problem Statement Pizza Sales */
 /*  ========================================================================    */
 -- Questions to Solve:
 -- 1. Show Total Revenue. 
