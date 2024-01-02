@@ -5,7 +5,7 @@
                               -- Submitted by: Rana Vivekkumar R. --
                               -- Course: Data Science --
 /*  ========================================================================    */
-						/* Problem Statement Pizza Sales */
+				/* Problem Statement Pizza Sales */
 /*  ========================================================================    */
 -- Questions to Solve:
 -- 1. Show Total Revenue. 
